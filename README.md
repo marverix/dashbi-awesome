@@ -14,6 +14,10 @@ List of Dashbi Widgets, Data Providers, and Resources
 
 - [worker](https://github.com/marverix/dashbi-worker) - Helps develop Dashbi data providers.
 
+## Database Drivers
+
+- [mongodb](https://github.com/marverix/dashbi-db-driver-mongodb) - MongoDB database driver.
+
 ## Widgets
 
 - [chart](https://github.com/marverix/dashbi-widget-chart) - Draws chart using [chartist.js](https://gionkunz.github.io/chartist-js/).
